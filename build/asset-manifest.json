@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24e44445.css",
+    "main.js": "/static/js/main.13af761e.js",
+    "static/js/453.559aa7cb.chunk.js": "/static/js/453.559aa7cb.chunk.js",
+    "static/media/Image1.jpg": "/static/media/Image1.b568e11626b0ac813cd2.jpg",
+    "static/media/PriyaNair.jpg": "/static/media/PriyaNair.9412cf8629d769e84c5c.jpg",
+    "static/media/RohanKapoor.jpg": "/static/media/RohanKapoor.b76f09d821f39a6a6515.jpg",
+    "static/media/ArjunMehta.jpg": "/static/media/ArjunMehta.ad3bd90d27f0da1f6848.jpg",
+    "index.html": "/index.html",
+    "main.24e44445.css.map": "/static/css/main.24e44445.css.map",
+    "main.13af761e.js.map": "/static/js/main.13af761e.js.map",
+    "453.559aa7cb.chunk.js.map": "/static/js/453.559aa7cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24e44445.css",
+    "static/js/main.13af761e.js"
+  ]
+}
