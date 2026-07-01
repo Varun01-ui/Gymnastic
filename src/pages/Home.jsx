@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import { motion, useInView, useScroll, useTransform, AnimatePresence } from "framer-motion";
+import { motion, useInView, useScroll, useTransform } from "framer-motion";
 import Image1 from "../assests/images/Image1.jpg"
 import TrainersComponent from "../components/Trainers";
 import PricingComponent from "../components/Pricing";

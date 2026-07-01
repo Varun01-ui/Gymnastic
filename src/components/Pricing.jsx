@@ -1,8 +1,6 @@
 import { motion } from "framer-motion";
-// import { fadeUp, stagger, scaleIn } from "../animations";
-// import useSection from "../hooks/useSection";
 import { plans } from "../data/pricing";
-import { useEffect, useRef, useState } from "react";
+import { useRef } from "react";
 import { useInView } from "framer-motion";
 
 const fadeUp = {

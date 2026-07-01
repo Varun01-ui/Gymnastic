@@ -1,10 +1,4 @@
 import "./App.css";
-
-import Cursor from "./components//Cursor.jsx";
-import About from "./components/About.jsx";
-import Features from "./components/Features.jsx";
-import Counter from "./components/Counter.jsx";
-import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
 import Home from "./pages/Home.jsx"
 import { Toaster } from "react-hot-toast";
@@ -28,16 +22,16 @@ function App() {
           },
         }}
       />  
-      <Cursor />
 
       <main>
 
   
        <Home/>
+         <Footer />
 
       </main>
 
-      <Footer />
+    
     </>
   );
 }
